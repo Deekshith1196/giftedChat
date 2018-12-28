@@ -1,0 +1,3 @@
+rootProject.name = 'giftedChat'
+
+include ':app'
